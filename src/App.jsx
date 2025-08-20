@@ -5,7 +5,7 @@ import CheckoutPage from "./pages/CheckoutPage"
 import PageNotFound from "./pages/404"
 import ProductsProvider from "./context/ProducContext"
 import CardProvider from "./context/CardContext"
-import Layout from "./layout/layout"
+import Layout from "./layout/Layout"
 
 
 function App() {
